@@ -9,13 +9,11 @@ A modern, responsive multipage web application for tracking cryptocurrencies, bu
 ## Table of Contents
 
 - [Features](#features)
-- [Screenshots](#screenshots)
 - [Installation](#installation)
 - [Usage](#usage)
 - [Technologies Used](#technologies-used)
 - [Contributing](#contributing)
 - [License](#license)
-- [Authors](#authors)
 
 ## Features
 
@@ -26,9 +24,6 @@ A modern, responsive multipage web application for tracking cryptocurrencies, bu
 - Modern UI: Clean, dark-themed interface built with Tailwind CSS for a professional look.
 - Fast Loading: Optimized performance with efficient API calls and loading spinners.
 
-## Screenshots
-
-*(Add screenshots here after deployment)*
 
 ## Installation
 
